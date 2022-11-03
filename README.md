@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Jonas @Sobaze Nilsson
+## Welcome to Sobaze's github profile
+- 👋 Hi, I’m Jonas Nilsson
 - 👀 I’m currently looking for work
 - 🌱 I’m in the process of learning more about Typescript
 - 📫 You can reach me @ nilsson760@gmail.com
