@@ -1,7 +1,11 @@
 
 ## Welcome to Sobaze's github profile
-- 👋 Hello my name is Jonas Nilsson 
-- 👀 I’m currently looking for work
+- 👋 Hello my name is Jonas Nilsson and I´m from 🇸🇪
+- Graduated from Linneaus University in Kalmar 2023 where I studied Webprogramming
+- During my 👨‍🎓 times I worked with different languages, such as JavaScript, TypeScript, Java, C# and Python
+- For my bachelor thesis I worked with Python doing a Machine Learning project. [Assigning SNI codes from Company Descriptions](https://github.com/Sobaze/machine-learning-sni-code-from-company-description)
+- 👀 I’m looking for new experiences to help me grow as both a developer and as a person! 🌱
+- I like to challenge myself in order to gain new knowledge and experience new things.
 - ### 🛠️ Langaue and Tools: 
 
 <div>
