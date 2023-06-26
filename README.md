@@ -5,7 +5,7 @@
 - During my 👨‍🎓 times I worked with different languages, such as JavaScript, TypeScript, Java, C# and Python
 - For my bachelor thesis I worked with Python doing a Machine Learning project. [Assigning SNI codes from Company Descriptions](https://github.com/Sobaze/machine-learning-sni-code-from-company-description)
 - 👀 I’m looking for new experiences to help me grow as both a developer and as a person! 🌱
-- I like to challenge myself in order to gain new knowledge and experience new things.
+- I like to challenge myself in order to gain new knowledge and experiences
 - ### 🛠️ Langaue and Tools: 
 
 <div>
