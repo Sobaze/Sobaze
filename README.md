@@ -7,7 +7,7 @@
 - 👀 I’m looking for new experiences to help me grow as both a developer and as a person! 🌱
 - I like to challenge myself in order to gain new knowledge and experiences
 - When I´m not coding I spend my time partaking in Japanese culture, where I also have lived for 2 years. 🇯🇵 Studying the language and enjoying music/shows
-- ### 🛠️ Langaue and Tools: 
+- ### 🛠️ Langauge and Tools: 
 
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
