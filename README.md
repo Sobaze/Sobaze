@@ -6,7 +6,7 @@
 - For my bachelor thesis I worked with Python doing a Machine Learning project. [Assigning SNI codes from Company Descriptions](https://github.com/Sobaze/machine-learning-sni-code-from-company-description)
 - 👀 I’m looking for new experiences to help me grow as both a developer and as a person! 🌱
 - I like to challenge myself in order to gain new knowledge and experiences
-- When I´m not coding I spend my time partaking in Japanese culture, where I also have lived for 2 years. 🇯🇵 Studying the language and enjoying music/shows
+- When I´m not coding I spend my time partaking in Japanese culture, where I also have lived for 2 years. Studying the language and enjoying music/shows
 - ### 🛠️ Language and Tools: 
 
 <div>
